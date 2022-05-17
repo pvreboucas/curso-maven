@@ -2,6 +2,8 @@
 
 [Curso de Maven da formação Java Arquitetura/Alura](https://cursos.alura.com.br/course/maven-gerenciamento-dependencias-build-aplicacoes-java)
 
+[<< CURSO ANTERIOR](https://github.com/pvreboucas/java-servlet-autenticacao-autorizacao)
+
 [Principal](https://github.com/pvreboucas/curso-maven)
 
 * [Aula 1 - Conhecendo o Maven](https://github.com/pvreboucas/curso-maven/tree/aula-01)
